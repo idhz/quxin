@@ -110,11 +110,11 @@ export default function ProductFeatures({ scrollY }: ProductFeaturesProps) {
               <div className="flex flex-wrap gap-4">
                 <div className="flex items-center bg-blue-50 px-4 py-2 rounded-lg">
                   <i className="fa-solid fa-lightbulb text-blue-600 mr-2"></i>
-                  <span className="text-gray-700">发明专利: 12项</span>
+                  <span className="text-gray-700">发明专利: 2项</span>
                 </div>
                 <div className="flex items-center bg-blue-50 px-4 py-2 rounded-lg">
                   <i className="fa-solid fa-copyright text-blue-600 mr-2"></i>
-                  <span className="text-gray-700">软件著作权: 8项</span>
+                  <span className="text-gray-700">软件著作权: 2项</span>
                 </div>
                 
               </div>
