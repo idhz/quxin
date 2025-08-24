@@ -36,7 +36,7 @@ export default function CompanyIntroduction({ scrollY }: CompanyIntroductionProp
           <div className={`transition-all duration-1000 ${isVisible ? 'opacity-100 translate-x-0' : 'opacity-0 -translate-x-10'}`}>
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">关于取新智能</h2>
             <p className="text-lg text-gray-600 mb-6">
-              杭州取新智能科技有限公司是一家专注于电动自行车智能充电系统研发、生产和销售的高新技术企业。
+              杭州取新智能科技有限公司是一家专注于电动自行车智能充电系统研发、生产和销售的新兴技术企业。
               公司致力于通过技术创新，解决电动自行车充电安全问题，为用户提供安全、智能、高效的充电解决方案。
             </p>
             <p className="text-lg text-gray-600 mb-8">
@@ -46,7 +46,7 @@ export default function CompanyIntroduction({ scrollY }: CompanyIntroductionProp
             
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-8">
               <div className="text-center">
-                <div className="text-3xl font-bold text-blue-600 mb-2">50+</div>
+                <div className="text-3xl font-bold text-blue-600 mb-2">20+</div>
                 <div className="text-gray-600">专业团队</div>
               </div>
               <div className="text-center">
@@ -54,7 +54,7 @@ export default function CompanyIntroduction({ scrollY }: CompanyIntroductionProp
                 <div className="text-gray-600">专利技术</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-blue-600 mb-2">100+</div>
+                <div className="text-3xl font-bold text-blue-600 mb-2">10+</div>
                 <div className="text-gray-600">合作客户</div>
               </div>
               <div className="text-center">
