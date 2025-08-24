@@ -74,7 +74,7 @@ export default function Contact() {
                     <div>
                      <h3 className="font-semibold text-gray-900 mb-1">联系电话</h3>
                      <p className="text-gray-600">+86 153 8107 3452</p>
-                      <p className="text-gray-600">0571-8888-7777</p>
+                     // <p className="text-gray-600">0571-8888-7777</p>
                     </div>
                   </div>
                   
@@ -85,7 +85,7 @@ export default function Contact() {
                     <div>
                      <h3 className="font-semibold text-gray-900 mb-1">电子邮箱</h3>
                      <p className="text-gray-600">info@quxin.online</p>
-                      <p className="text-gray-600">sales@quxintech.com</p>
+                     // <p className="text-gray-600">sales@quxintech.com</p>
                     </div>
                   </div>
                   
