@@ -197,7 +197,7 @@ export default function Recruitment() {
                 />
                 <div className="absolute -bottom-6 -left-6 bg-white p-4 rounded-lg shadow-lg hidden md:block">
                   <div className="flex items-center">
-                    <div className="text-3xl font-bold text-blue-600 mr-2">50+</div>
+                    <div className="text-3xl font-bold text-blue-600 mr-2">20+</div>
                     <div>
                       <div className="text-sm font-semibold text-gray-900">专业团队</div>
                       <div className="text-xs text-gray-500">优秀人才</div>
